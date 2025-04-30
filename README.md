@@ -1,4 +1,4 @@
-# RP3-Magisk
+# RP3Plus-Magisk & VBMETA files
 Retroid Pocket 3+ vbmeta and magisk boot.img for Magisk-v28.1
 
 
