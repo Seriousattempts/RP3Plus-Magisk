@@ -12,7 +12,7 @@ In SPD ResearchTool, hit the 2nd botton to the top left to access Download Setti
 - Change BOOT to the Magisk file
 - Change VBMETA to the vbmeta_custom file.
 *Flash Operations Tab*
-- Select Erase All Flash (Can take 1200 secs when you start flashing to erase all).
+- Select Erase All Flash at the bottom. (Can take 1200 secs when you start flashing to erase all).
 
 
 If you ever get an NVE error, you can either go to the backup tab in Download settings and uncheck all 3 file backups at the bottom or uncheck NV_LTE under Main Page
